@@ -12,6 +12,7 @@ const Home = () => {
     //     .then(res=>res.json())
     //     .then(data=>setReviews(data))
     // },[setReviews])
+    // reviews.slice(0,3)
     return (
         <div>
             <div className='d-flex justify-content-around mt-5'>
@@ -29,7 +30,7 @@ const Home = () => {
                 <h2>Customer Reviews</h2>
                 <div className='row'>
                     {
-                      reviews.map(review=><CustomerReview key={review.id} review={review}></CustomerReview>)  
+                      reviews.slice(0,3).map(review=><CustomerReview key={review.id} review={review}></CustomerReview>)  
                     }
                 </div>
                 <button className='btn btn-primary btn-lg mt-3 mb-3' onClick={()=>navigate('/reviews')}>see all review</button>
