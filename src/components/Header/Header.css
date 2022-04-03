@@ -3,15 +3,15 @@ nav{
 }
 .link {
     text-decoration: none;
-    margin-left: 15px;
-    font-size: 20px;
+    margin-left: 10px;
+    font-size: 15px;
     color: #1e90c2;
     transition: color ease-in-out 300ms;
   }
   .active-link {
     text-decoration: none;
-    margin-left: 15px;
+    margin-left: 10px;
     font-size: 20px;
     transition: color ease-in-out 300ms;
-    color: #1b4388;
+    color: #0f0f10;
   }
