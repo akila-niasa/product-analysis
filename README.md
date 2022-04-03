@@ -1,10 +1,10 @@
 # Laptop-Store
 
-Live Site Link:[Create React App](https://github.com/facebook/create-react-app).
+Live Site Link:[https://app.netlify.com/sites/polite-biscotti-4e913e/overview](https://app.netlify.com/sites/polite-biscotti-4e913e/overview).
 
 ## What I do in this project
-*showed Active Link
-*Showed Customer Reviews
-*Showed Dashboard
-*Showed Blogs 
+* Showed Active Link
+* Showed Customer Reviews
+- Showed Dashboard
+- Showed Blogs 
 
