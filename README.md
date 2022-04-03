@@ -1,6 +1,10 @@
-# Laptop-Analysis
+# Laptop-Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Site Link:[Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## What I do in this project
+*showed Active Link
+*Showed Customer Reviews
+*Showed Dashboard
+*Showed Blogs 
 

@@ -3,7 +3,7 @@ import { Card } from 'react-bootstrap';
 
 const CustomerReview = ({review}) => {
     return (
-        <div className='col-lg-4'>
+        <div className='col-lg-4 mt-2'>
             <Card style={{ width: '18rem' }}>
   
   <Card.Body>
