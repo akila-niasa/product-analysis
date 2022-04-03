@@ -9,6 +9,7 @@ import Blogs from './components/Blogs/Blogs';
 import NotFound from './components/NotFound/NotFound';
 import Header from './components/Header/Header';
 
+
 function App() {
   return (
     <div >

@@ -1,6 +1,17 @@
-import React from 'react';
+import React, { useContext, useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+
+import useReview from '../../hooks/useReview';
+import CustomerReview from '../CustomerReview/CustomerReview';
 
 const Home = () => {
+    const [reviews,setReviews]=useReview()
+    const navigate=useNavigate()
+    // useEffect(()=>{
+    //     fetch('data.json')
+    //     .then(res=>res.json())
+    //     .then(data=>setReviews(data))
+    // },[setReviews])
     return (
         <div>
             <div className='d-flex justify-content-around mt-5'>
@@ -14,10 +25,14 @@ const Home = () => {
                     <img  src="https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/herobook/herobook-pro/herobook-pro-1-228x228.jpg" alt="" />
                 </div>
             </div>
-            <div>
+            <div className='container'>
                 <h2>Customer Reviews</h2>
-
-                
+                <div className='row'>
+                    {
+                      reviews.map(review=><CustomerReview key={review.id} review={review}></CustomerReview>)  
+                    }
+                </div>
+                <button className='btn btn-primary btn-lg mt-3 mb-3' onClick={()=>navigate('/reviews')}>see all review</button>
             </div>
         </div>
     );
