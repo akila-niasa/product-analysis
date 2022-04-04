@@ -1,37 +1,43 @@
 [
     {
      "id":1,
-     "name":"aki",
+     "name":"Aki",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwN8kiZX12jISWPwL1hF0JHOunsNYagMOW7A&usqp=CAU",
      "review":"Their laptop is amazing laptop.My laptop works amazingly.",
      "raiting":"4/5"
     },
     {
      "id":2,
-     "name":"amin",
+     "name":"Amin",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOGB8hL92pHixnkA7yY-IrWBfJNDSl3FTe8w&usqp=CAU",
      "review":"Laptop is new version.It works fast.",
      "raiting":"4/5"
     },
     {
      "id":3,
-     "name":"kamal",
-     "review":"My laptop works awesome.It's color also amazing.",
+     "name":"Kamal",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmDc5An9Xc__JpdadjnLrgaykeroZOHUSOA&usqp=CAU",
+     "review":"My laptop works awesome.It's ram rom high.",
      "raiting":"4/5"
     },
     {
      "id":4,
-     "name":"nayem",
-     "review":"This laptop ram and Bettery is high quality.It's best for gaming.",
+     "name":"Nayem",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG5T7UxpDjwgUSNiEAkzs9GHSxN56qBj51Pg&usqp=CAU",
+     "review":"This laptop's ram and Bettery is high quality.It's best for gaming.",
      "raiting":"4/5"
     },
     {
      "id":5,
-     "name":"saim",
+     "name":"Saim",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR04ZndPl3TMJ4GMG8UeiY8XGh8ifpnPGHTbw&usqp=CAU",
      "review":"My laptop is amazingly.It's makes my works easier.",
      "raiting":"4/5"
     },
     {
      "id":6,
-     "name":"rim",
+     "name":"Rim",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vtdbgbShzIYcJ4OW8Sl5WGEz-_THPNqL8Q&usqp=CAU",
      "review":"My laptop works awesome.It's color also amazing.",
      "raiting":"4/5"
     }
