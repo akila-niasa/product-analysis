@@ -1,6 +1,6 @@
 # Laptop-Store
 
-Live Site Link:[https://app.netlify.com/sites/polite-biscotti-4e913e/overview](https://app.netlify.com/sites/polite-biscotti-4e913e/overview).
+Live Site Link:[https://polite-biscotti-4e913e.netlify.app/](https://polite-biscotti-4e913e.netlify.app/).
 
 ## What I do in this project
 * Showed Active Link
