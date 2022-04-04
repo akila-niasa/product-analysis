@@ -56,7 +56,9 @@ const Dashboard = () => {
     <CartesianGrid stroke="#ccc" />
     <XAxis dataKey="month" />
     <YAxis />
+   
   </LineChart> 
+  <p className='mx-5 p-5 text-muted'>sell</p>
             </div>
 
             <div className='p-5'>
